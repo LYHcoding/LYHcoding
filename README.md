@@ -1,5 +1,6 @@
-## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Yuanhao+Li!;Nice+to+meet+you,+my+frinend!)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋+&nbsp;+I'm+Yuanhao+Li!+😄;Nice+to+meet+you,+my+frinend!&multiline=true&width=1000)](https://git.io/typing-svg)
+
+
 
 
 <!--
