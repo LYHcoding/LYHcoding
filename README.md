@@ -1,7 +1,6 @@
 ## Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Yuanhao+Li!;Nice+to+meet+you,+my+frinend!)](https://git.io/typing-svg)
 
-完成测试，删除多余内容
 
 <!--
 **LYHcoding/LYHcoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
