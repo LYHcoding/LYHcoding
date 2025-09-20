@@ -7,71 +7,40 @@
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css" rel="stylesheet">
     <style>
-        /* 定义基础颜色变量 */
-        :root {
-            --primary: #2563eb; /* 主色调 - 蓝色 */
-            --primary-dark: #1d4ed8; /* 深色变体 */
-            --primary-light: #3b82f6; /* 浅色变体 */
-            --accent: #ef4444; /* 强调色 - 红色 */
-            --text: #374151; /* 文本颜色 */
-        }
-
-        /* 深色模式变量 (如需使用可在body添加data-theme="dark") */
-        [data-theme="dark"] {
-            --primary: #3b82f6;
-            --primary-dark: #60a5fa;
-            --primary-light: #93c5fd;
-        }
-
-        /* GitHub链接样式 - 整合所有状态和动画 */
         .github-link {
-            color: var(--primary);
+            display: inline-block; 
+            margin-left: 5%;
+            color: #2563eb;
             text-decoration: none;
             position: relative;
-            transition: color 0.3s ease;
+            transition: color 0.5s ease, transform 0.5s ease;
         }
-
-        /* 下划线动画效果 */
-        .github-link::before {
-            content: "";
+        .github-link:hover {
+            color: #ef4444;
+            transform: scale(1.1);
+        }
+        /* 下划线样式及动画 */
+        .github-link::after {
+            content: '';
             position: absolute;
-            bottom: -1px; /* 稍微调整位置使其更自然 */
-            right: 0;
             width: 0;
             height: 1px;
-            background-color: var(--primary);
-            transition: width 0.4s cubic-bezier(0.25, 1, 0.5, 1);
-        }
-
-        /* 链接状态样式 */
-        .github-link:hover {
-            color: var(--accent);
-        }
-
-        .github-link:hover::before {
+            bottom: -2px;
             left: 0;
-            right: auto;
+            background-color: #ef4444;
+            transition: width 0.5s ease;
+        }
+        .github-link:hover::after {
             width: 100%;
-            background-color: var(--accent);
         }
 
-        .github-link:visited {
-            color: var(--primary-dark);
-        }
-
-        .github-link:active {
-            color: var(--accent);
-        }
-
-        /* SVG链接样式 */
         a[href="https://git.io/typing-svg"] {
             display: block;
             margin-bottom: 1rem;
-            transition: transform 0.3s ease;
+            transition: transform 0.5s ease;
         }
-
         a[href="https://git.io/typing-svg"]:hover {
-            transform: scale(1.02);
+            transform: scale(1.2);
         }
     </style>
 </head>
@@ -86,12 +55,12 @@
                      class="mx-auto">
             </a>
             <a href="https://git.io/typing-svg">
-                <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&width=500&color=86C7F7FF&lines=Hi,+there.+👋&nbsp;+&nbsp;my+friend!😄" 
+                <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&width=500&color=86C7F7FF&lines=Hi,+there.+👋&nbsp;+&nbsp;my+friend!😄" 
                      alt="Typing animation showing 'Hi there 👋' and 'my friend! 😄'" 
                      class="mx-auto">
             </a>
             <a href="https://git.io/typing-svg">
-                <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&width=500&color=F7653CFF&lines=Hi,+there.+👋&nbsp;+&nbsp;my+friend!😄" 
+                <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&width=500&color=F7653CFF&lines=Hi,+there.+👋&nbsp;+&nbsp;my+friend!😄" 
                      alt="Typing animation showing 'Hi there 👋' and 'my friend! 😄'" 
                      class="mx-auto">
             </a>            
@@ -101,10 +70,10 @@
             A simple demonstration of a typing animation SVG.
         </p>
         <p class="text-gray-600 text-sm my-4 w-full max-w-lg mx-auto text-left">
-            PS：Cite and study from url 
+            PS：Thanks to Jonah Lawrence's open resources ( @DenverCoder1 ). Cite and study from url
             <a class="github-link" href="https://github.com/DenverCoder1/readme-typing-svg">
-                https://github.com/DenverCoder1/readme-typing-svg
-            </a> . Thanks to Jonah Lawrence's open resources ( @DenverCoder1 ).
+                https://github.com/DenverCoder1/readme-typing-svg.
+            </a>
         </p>
     </div>
 </body>

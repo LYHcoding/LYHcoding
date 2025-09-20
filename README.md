@@ -1,7 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+there.+👋&nbsp;+I'm+Yuanhao+Li!;Nice+to+meet+you,+my+frinend!+😄&multiline=true&height=60&duration=2000&pause=1000)](https://git.io/typing-svg)
-
-
-
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+there.+👋&nbsp;+I'm+Yuanhao+Li!;Nice+to+meet+you,+my+friend!+😄&multiline=true&height=60&duration=2000&pause=1000)](https://git.io/typing-svg)
 
 <!--
 **LYHcoding/LYHcoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
