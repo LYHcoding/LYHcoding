@@ -1,6 +1,8 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+there.+👋&nbsp;+I'm+Yuanhao+Li!;Nice+to+meet+you,+my+friend!+😄&multiline=true&height=60&duration=2000&pause=1000)](https://git.io/typing-svg)
 
-[![Typing Gradient SVG](https://raw.githubusercontent.com/LYHcoding/LYHcoding/main/typing-gradient.svg)](https://git.io/typing-svg)
+![LYHcoding's GitHub stats](https://github-readme-stats.vercel.app/api?username=LYHcoding&show_icons=true&theme=cobalt)
+
+![LYHcoding's skills](https://skillicons.dev/icons?i=git,github,gitlab,markdown,vscode,html,css,vue,js,python,java,django，mysql)
 
 
 <!--
