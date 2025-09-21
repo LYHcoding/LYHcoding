@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+there.+👋&nbsp;+I'm+Yuanhao+Li!;Nice+to+meet+you,+my+friend!+😄&multiline=true&height=60&duration=2000&pause=1000" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+there.+👋&nbsp;+I'm+Yuanhao+Li!;Nice+to+meet+you,+my+friend!+😄&multiline=true&height=60&duration=2000&pause=1000&center=true" alt="Typing SVG" />
     <img src="https://github-readme-stats.vercel.app/api?username=LYHcoding&show_icons=&hide=issues,contribs&commits_year=2025&theme=ambient_gradient&rank_icon=github" alt="LYHcoding's GitHub stats">
     <img src="https://skillicons.dev/icons?i=git,github,gitlab,markdown,vscode,html,css,vue,js,python,java,django,mysql" alt="LYHcoding's skills">
 </p>
