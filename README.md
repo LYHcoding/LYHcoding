@@ -30,3 +30,39 @@
 // 其他会但不显示的技能图标：vscode,pycharm,pytorch,git,github,markdown,latex,notion,matlab,npm,ubuntu,
 // 其他不会待学习的技能图标：electron,figma,angular,react,fastapi,postman,go,nginx,postgres,
 // 其他有待提升的的技能图标：bash,blender,docker,nodejs,ps,qt,redhat,unity, -->
+
+<!-- ✨**Skills:**
+![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
+![](https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=Vue.js&logoColor=fff)
+![](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=fff)
+![](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=GitHubActions&logoColor=fff)
+![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
+![](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=fff)
+![](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=fff)
+![](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=fff) -->
+
+<!--START_SECTION:waka-->
+✨ **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+🔭 Programming Languages: 
+Vue                      15 hrs 8 mins       ████████████████░░░░░░░░░   62.42 % 
+Python                   15 hrs 8 mins       ████████████████░░░░░░░░░   62.42 % 
+Java                     4 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
+TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+Other                    1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+
+🌱 Programming Languages of Repos:
+Vue                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+Python                   59 repos            █████████████████░░░░░░░░   68.60 %
+Java                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+Other                    1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+```
+
+ Last Updated on 05/03/2026 02:45:18 UTC      ✨![Code Time](http://img.shields.io/badge/Code%20Time-8%2C496%20hrs%2059%20mins-blue?style=flat)
+<!--END_SECTION:waka-->
+
+<!-- 使用 https://crontab.guru/ 和 https://crontab.cronhub.io/ 生成cron表达式，将gtihub action设置为任何时间点 -->
