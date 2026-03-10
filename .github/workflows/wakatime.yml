@@ -2,8 +2,8 @@ name: Waka Readme
 
 on:
   schedule:
-    # Runs at 00:00AM UTC --> cron: '0 0 * * *'
-    - cron: '0 0 21 8 *'
+    # Runs at 00:00AM UTC --> cron: '0 0 * * *' '*/10 * * * *'
+    - cron: '0 0 * * *'
   workflow_dispatch:
 jobs:
   update-readme:
@@ -14,47 +14,41 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          # 显示统计数据语言
-          LOCALE: "zh"
+          # 显示统计数据语言  # LOCALE: "zh"
           # 按照账号名称与邮箱提交 commit
           COMMIT_BY_ME: "True"
-          # COMMIT_USERNAME: "LYHcoding"
-          # COMMIT_EMAIL: "847800124@qq.com"
+          # COMMIT_USERNAME: "LYHcoding"  # COMMIT_EMAIL: "847800124@qq.com"
           # 展示图表的最后更新日期
-          SHOW_UPDATED_DATE: "True"
+          SHOW_UPDATED_DATE: "True" # UPDATED_DATE_FORMAT: "YYYY-MM-DD HH:mm:ss UTC"  # 展示图表的最后更新日期格式，默认值
           # 显示截止今日的代码贡献行数
           SHOW_LINES_OF_CODE: "True"
           # 显示统计的编程时长
           SHOW_TOTAL_CODE_TIME: "True"
           # 显示统计的资料页浏览量
           SHOW_PROFILE_VIEWS: "True"
+          # 显示统计的提交
+          SHOW_COMMIT: "False"
+          # 显示一周内每日 commit 量情况
+          SHOW_DAYS_OF_WEEK: "False"
           # 显示编程语言使用情况
           SHOW_LANGUAGE: "True"
           # 显示系统使用情况
           SHOW_OS: "False"
+          # 显示正在研究的项目情况
+          SHOW_PROJECTS: "False"
           # 显示所处的时区
           SHOW_TIMEZONE: "True"
           # 显示编辑器/集成开发环境（IDE）的使用情况
           SHOW_EDITORS: "True"
           # 显示不同编程语言与框架在各个仓库中的占比显示
-          SHOW_LANGUAGE_PER_REPO: "True"
+          SHOW_LANGUAGE_PER_REPO: "False"
           # 显示用户的概述信息
-          SHOW_SHORT_INFO: "True"
+          SHOW_SHORT_INFO: "False"
+          # 显示不同年份不同季度的代码贡献行数
+          SHOW_LOC_CHART: "False"
+          # 仓库名，去除你不想计入的仓库  # IGNORED_REPOS: "LYHcoding"
+          # 设置进度条样式  1 2 3
+          SYMBOL_VERSION: 2
           # 设置生成徽章的样式
           BADGE_STYLE: "flat-square"
           
-          # 仓库名，去除你不想计入的仓库
-          IGNORED_REPO: "LYHcoding"
-          # 设置进度条样式  1 2 3
-          SYMBOL_VERSION: 2
-
-          # 显示统计的提交
-          SHOW_COMMIT: "True"
-          # 显示一周内每日 commit 量情况
-          SHOW_DAYS_OF_WEEK: "True"
-          # 显示正在研究的项目情况
-          SHOW_PROJECTS: "True"
-          # 显示不同年份不同季度的代码贡献行数
-          SHOW_LOC_CHART: "True"
-
-
