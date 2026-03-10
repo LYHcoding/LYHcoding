@@ -50,7 +50,7 @@
 <!--START_SECTION:waka-->
 ✨ ![Code Time](http://img.shields.io/badge/Code%20Time-365%20D%2020%20H-blue)
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-100-blue)
-![Lines of code](https://img.shields.io/badge/Lines%of%20Code-1%20million-blue)
+![Lines of code](https://img.shields.io/badge/Lines%20of%20Code-1%20million-blue)
 
 ✨ **This Week I Spent My Time On** 
 

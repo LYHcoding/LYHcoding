@@ -44,7 +44,7 @@ jobs:
           BADGE_STYLE: "flat-square"
           
           # 仓库名，去除你不想计入的仓库
-          IGNORED_REPO: "LYHcoding"
+          IGNORED_REPOS: "LYHcoding"
           # 设置进度条样式  1 2 3
           SYMBOL_VERSION: 2
 
