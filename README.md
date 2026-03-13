@@ -50,8 +50,8 @@
 ![TS](https://img.shields.io/badge/-TS-007acc?&logo=TypeScript&logoColor=fff)
 ![Django](https://img.shields.io/badge/-Django-0c4b33?&logo=Django&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/-MySQL-015b85?&logo=MySQL&logoColor=fff)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=Docker&logoColor=fff)✨
-<!-- ![Total Stars](https://img.shields.io/github/stars/LYHcoding?logo=github&labelColor=181717&color=ffffff) -->
+![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=Docker&logoColor=fff)
+<!-- ![Total Stars](https://img.shields.io/github/stars/LYHcoding?logo=github&labelColor=181717&color=ffffff)✨ -->
 
 
 <!-- 掌握：
