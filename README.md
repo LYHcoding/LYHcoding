@@ -21,7 +21,9 @@
     <img src="https://img.shields.io/badge/LYH-blue" alt="✨LYH✨分割线" />
     ✨
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=LYHcoding&show_icons=true&hide=issues,contribs&commits_year=2026&theme=ambient_gradient&rank_icon=github" alt="LYHcoding's GitHub stats"><br />
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=LYHcoding&show_icons=true&hide=issues,contribs&commits_year=2026&theme=ambient_gradient&rank_icon=github" alt="LYHcoding's GitHub stats"><br />
+</p>
 
 <!-- - I’m currently working on VUE of frontend, java.
 - I’m currently learning AI Agent, 3D print. ~~Cyber Security~~
@@ -45,7 +47,7 @@
 ![Apifox](https://img.shields.io/badge/-Apifox-ff546a?&logo=Apifox&logoColor=fff)
 ![Vue](https://img.shields.io/badge/-Vue-41b784?&logo=Vue.js&logoColor=fff)
 ![Pinia](https://img.shields.io/badge/-Pinia-ffe56c?&logo=Pinia&logoColor=fff)
-![TS](https://img.shields.io/badge/-TypeScript-007acc?&logo=TypeScript&logoColor=fff)
+![TS](https://img.shields.io/badge/-TS-007acc?&logo=TypeScript&logoColor=fff)
 ![Django](https://img.shields.io/badge/-Django-0c4b33?&logo=Django&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/-MySQL-015b85?&logo=MySQL&logoColor=fff)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=Docker&logoColor=fff)✨
