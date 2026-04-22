@@ -97,9 +97,9 @@
 <!-- waka time 统计呈现引用项目：https://github.com/anmol098/waka-readme-stats/tree/master 
 使用 https://crontab.guru/ 和 https://crontab.cronhub.io/ 生成cron表达式，将gtihub action设置为任何时间点 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-712%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-717%20hrs%2025%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-36.41%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -109,18 +109,18 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      10 hrs 11 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   44.26 % 
-TypeScript               5 hrs 48 mins       ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.24 % 
-Vue.js                   5 hrs 16 mins       ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.88 % 
-Other                    37 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.70 % 
-JSON                     29 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.10 % 
+Vue                      8 hrs 37 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   38.64 % 
+TypeScript               6 hrs 22 mins       ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   28.53 % 
+Vue.js                   5 hrs 16 mins       ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.58 % 
+Other                    41 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.12 % 
+JSON                     36 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.72 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 55 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀   64.84 % 
-Trae                     8 hrs 5 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.16 % 
+VS Code                  20 hrs 39 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀   92.50 % 
+Trae                     1 hr 40 mins        ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.50 % 
 ```
 
 
- Last Updated on 21/04/2026 02:02:39 UTC
+ Last Updated on 22/04/2026 02:01:13 UTC
 <!--END_SECTION:waka-->
 
