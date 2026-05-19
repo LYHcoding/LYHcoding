@@ -97,11 +97,30 @@
 <!-- waka time 统计呈现引用项目：https://github.com/anmol098/waka-readme-stats/tree/master 
 使用 https://crontab.guru/ 和 https://crontab.cronhub.io/ 生成cron表达式，将gtihub action设置为任何时间点 -->
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-799%20hrs%2044%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.05%20million%20lines%20of%20code-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 18/05/2026 02:45:20 UTC
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Vue                      7 hrs 31 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   47.88 % 
+TypeScript               4 hrs 38 mins       ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.46 % 
+Markdown                 1 hr 35 mins        ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.08 % 
+Other                    1 hr 12 mins        ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.66 % 
+YAML                     27 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.90 % 
+
+🔥 Editors: 
+VS Code                  13 hrs 20 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀   84.79 % 
+Unknown Editor           2 hrs 23 mins       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.21 % 
+```
+
+
+ Last Updated on 19/05/2026 02:42:59 UTC
 <!--END_SECTION:waka-->
 
