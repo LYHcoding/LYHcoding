@@ -97,9 +97,9 @@
 <!-- waka time 统计呈现引用项目：https://github.com/anmol098/waka-readme-stats/tree/master 
 使用 https://crontab.guru/ 和 https://crontab.cronhub.io/ 生成cron表达式，将gtihub action设置为任何时间点 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C132%20hrs%2024%20mins-blue?style=flat-square)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C136%20hrs%207%20mins-blue?style=flat-square)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-333%20hrs%2046%20mins-blue?style=flat-square)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-336%20hrs%2048%20mins-blue?style=flat-square)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat-square)
 
@@ -111,41 +111,41 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               3 hrs 57 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀   63.74 % 
-Java                     1 hr 16 mins        ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.42 % 
-Other                    35 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.47 % 
-Markdown                 19 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.12 % 
-YAML                     2 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.77 % 
+TypeScript               4 hrs 11 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   58.95 % 
+Java                     1 hr 43 mins        ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.30 % 
+Other                    35 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.26 % 
+Markdown                 27 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.41 % 
+Vue                      4 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.02 % 
 
 🔥 Editors: 
-Codex Vscode             5 hrs 6 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀   82.19 % 
-VS Code                  1 hr 6 mins         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.81 % 
+Codex Vscode             5 hrs 45 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀   80.98 % 
+VS Code                  1 hr 21 mins        ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.02 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 25 mins (87.35%)
+⏱ AI Coding Time: 6 hrs 6 mins (85.76%)
 
-✍️ 2,003 lines written by AI, 4 lines written by hand (99.8% AI-written)
+✍️ 2,206 lines written by AI, 39 lines written by hand (98.26% AI-written)
 
-🔤 2,431,965 Input Tokens, 285,403 Output Tokens
+🔤 2,858,570 Input Tokens, 322,796 Output Tokens
 
-💵 $67.73 Estimated AI Cost This Week
+💵 $78.16 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 25 AI Prompts
+🧠 13 AI Sessions, 27 AI Prompts
 
-GPT                      2,459 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+GPT                      2,667 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 Codex-Vscode             0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.8% of written lines came from AI
-📄 Detailed Prompter — average 642 characters per prompt
+🤖 AI-Driven — 98.26% of written lines came from AI
+📄 Detailed Prompter — average 595 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.24% of changed lines were hand-edited
+🚀 High AI Trust — 1.55% of changed lines were hand-edited
 ```
 
 
- Last Updated on 10/10/2026 03:50:46 UTC
+ Last Updated on 11/10/2026 03:24:30 UTC
 <!--END_SECTION:waka-->
 
